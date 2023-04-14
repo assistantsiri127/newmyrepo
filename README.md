@@ -1,1 +1,2 @@
-# newmyrepo
+# newmyrepoi
+hello this devops git project
